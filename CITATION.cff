@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "mCCI-S: development and external validation of a comorbidity- and urgency-based mortality score for postoperative ICU patients"
+version: 1.0.0
+date-released: 2026-11-09
+license: MIT
+authors:
+  - family-names: "İşevi"
+    given-names: "Melda"
+  - family-names: "Çolak"
+    given-names: "Özkul Yılmaz"
+    orcid: "https://orcid.org/0000-0003-2846-6358"
+  - family-names: "Sezer Akman"
+    given-names: "Tuğçehan"
+  - family-names: "Uçar Taş"
+    given-names: "Ezgi"
+  - family-names: "Şanlı"
+    given-names: "Serkan"
+  - family-names: "Tuğrul"
+    given-names: "Zeynep"
+  - family-names: "Ünal Akdemir"
+    given-names: "Neslihan"
+  - family-names: "Ülger"
+    given-names: "Fatma"
+keywords:
+  - Charlson Comorbidity Index
+  - postoperative care
+  - intensive care units
+  - prediction model
+  - MIMIC-IV
+  - eICU-CRD
