@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite it as below."
 title: "mCCI-S: development and external validation of a comorbidity- and urgency-based mortality score for postoperative ICU patients"
-version: 1.0.0
+version: 1.1.0
 date-released: 2026-11-09
 license: MIT
 doi: 10.5281/zenodo.24080130

@@ -64,11 +64,18 @@ No patient-level data are included in this repository. MIMIC-IV and eICU-CRD are
 through PhysioNet. OMU-ICU data are available from the corresponding author on reasonable request, subject to
 institutional approval.
 
+## Version history
+
+- **v1.1.0**: sensitivity analyses (ICU death before discharge only, strict emergency definition, comorbidities known
+  before admission), Charlson index with harmonised definitions, nested cross-validation for incremental value over
+  SOFA, Brier skill score, calibration by score value, alternative O/E variance, software versions in `model_spec.json`.
+- **v1.0.0**: initial release.
+
 ## Citation
 
 Please cite the article (details to be added on publication) and this repository:
 
-İşevi M, Çolak ÖY, Sezer Akman T, et al. mCCI-S: code for development and external validation of a modified Charlson Comorbidity Index for postoperative ICU patients (v1.0.0). Zenodo 2026. doi: 10.5281/zenodo.24080130.
+İşevi M, Çolak ÖY, Sezer Akman T, et al. mCCI-S: code for development and external validation of a modified Charlson Comorbidity Index for postoperative ICU patients (v1.1.0). Zenodo 2026. doi: 10.5281/zenodo.24080130.
 
 See also `CITATION.cff`. When using
 MIMIC-IV and eICU-CRD, also cite the datasets and PhysioNet as required by their licences.
