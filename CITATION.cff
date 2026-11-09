@@ -4,6 +4,8 @@ title: "mCCI-S: development and external validation of a comorbidity- and urgenc
 version: 1.0.0
 date-released: 2026-11-09
 license: MIT
+doi: 10.5281/zenodo.24080130
+repository-code: "https://github.com/ozkulycolak/mccis-postop-icu"
 authors:
   - family-names: "İşevi"
     given-names: "Melda"

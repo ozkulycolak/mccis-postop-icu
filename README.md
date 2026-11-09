@@ -1,5 +1,7 @@
 # mCCI-S: a comorbidity- and urgency-based mortality score for postoperative ICU patients
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24080130.svg)](https://doi.org/10.5281/zenodo.24080130)
+
 Code for the study *"Development and multinational external validation of a modified Charlson Comorbidity Index
 for patients admitted to the intensive care unit after surgery"* (İşevi M, Çolak ÖY, Sezer Akman T, et al.).
 
@@ -64,7 +66,11 @@ institutional approval.
 
 ## Citation
 
-Please cite the article (details to be added on publication) and this repository (see `CITATION.cff`). When using
+Please cite the article (details to be added on publication) and this repository:
+
+İşevi M, Çolak ÖY, Sezer Akman T, et al. mCCI-S: code for development and external validation of a modified Charlson Comorbidity Index for postoperative ICU patients (v1.0.0). Zenodo 2026. doi: 10.5281/zenodo.24080130.
+
+See also `CITATION.cff`. When using
 MIMIC-IV and eICU-CRD, also cite the datasets and PhysioNet as required by their licences.
 
 ## Licence
